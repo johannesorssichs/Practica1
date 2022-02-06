@@ -7,3 +7,8 @@ Una vez entramos en la página de "Contacto", nos aparecerá el formulario web y
 
 Esta práctica se ha enfocado principalmente en exponer una buena página web como base (en este caso es index 3_1), acompañada de dos páginas secundarias. Aunque no se haya pedido, en esta práctica se ha hecho uso de CSS, y se mejorará de cara a la práctica 3. 
 
+Orden de eejecución: 
+
+EJECUTAR EL PROGRAMA index3_1.html para arrancar la práctica (página principal)
+EJECUTAR EL PROGRAMA index3_2.html para arrancar la página secundaria de formulario
+EJECUTAR EL PROGRAMA index3_1.html para arrancar la página de éxito 
