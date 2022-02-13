@@ -1,4 +1,4 @@
-# Practica1
+# Practica2
 
 Esta página web es sobre Ready For You, una startup enfocada en el mundo de la moda. 
 
